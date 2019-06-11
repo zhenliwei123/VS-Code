@@ -1,2 +1,3 @@
 console.log('zlw');
-console.log('aaa');
+
+console.log(object);
